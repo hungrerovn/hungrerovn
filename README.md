@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="SQL" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="30" alt="github logo" title="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="linux"/>
-  <img src="https://botdesignerdiscord.com/logo192.png" height="40" alt="bdfd logo" title="bdfd"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPnwHeH6opq8C9UYiH6vPqnFeIWErJivhCfZ-5o4AGA&s=10" height="40" alt="bdfd logo" title="bdfd"/>
 </p>
 
 ![hungrerovn's GitHub Stats](https://readme-stats-github.pages.dev/api?username=hungrerovn)
