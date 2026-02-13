@@ -9,16 +9,16 @@
 
 ## Language & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" title="Bash/Shell" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="SQL" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="30" alt="github logo" title="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="linux"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPnwHeH6opq8C9UYiH6vPqnFeIWErJivhCfZ-5o4AGA&s=10" height="40" alt="bdfd logo" title="bdfd"/>
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/html.svg" height="40" alt="html5 logo" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/css.svg" height="40" alt="css3 logo" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/javascript.svg" height="40" alt="javascript logo" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/nodejs.svg" height="40" alt="nodejs logo" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/python.svg" height="40" alt="python logo" title="Python" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/shell.svg" height="40" alt="bash logo" title="Bash/Shell" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/mysql.svg" height="40" alt="mysql logo" title="SQL" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/github.svg" height="40" alt="github logo" title="github" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/linux.svg" height="40" alt="linux logo" title="linux"/>
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/bdfd.png" height="40" alt="bdfd logo" title="bdfd"/>
 </p>
 
 ![hungrerovn's GitHub Stats](https://readme-stats-github.pages.dev/api?username=hungrerovn)
