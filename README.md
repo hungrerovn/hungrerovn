@@ -8,12 +8,12 @@
 - **sql:** Write statements to create, modify, delete, and query the database, and to import and export data.
 
 ## Language & Tools
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/html.svg" height="40" alt="html5 logo" title="HTML5" />
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/css.svg" height="40" alt="css3 logo" title="CSS3" />
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/javascript.svg" height="40" alt="javascript logo" title="JavaScript" />
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/nodejs.svg" height="40" alt="nodejs logo" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/python.svg" height="40" alt="python logo" title="Python" />
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/python.svg" height="40" alt="python logo" title="Python" /><br>
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/shell.svg" height="40" alt="bash logo" title="Bash/Shell" />
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/mysql.svg" height="40" alt="mysql logo" title="SQL" />
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/github.svg" height="40" alt="github logo" title="github" />
@@ -28,7 +28,7 @@
 ## Contact
 <p align="center">
   <a href="mailto:contact@hungreeovn@is-a.dev"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/email.svg" alt="Email Icon" title="email" width="50" /></a>
-  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title="youtube" width="50" /></a>
+  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title="youtube" width="60" /></a>
   <a href="https://tiktok.com/@hungrero_vn"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/tiktok.svg" alt="Tiktok Icon" title="tiktok" width="50" /></a>
   <a href="https://dsc.gg/hrv-rero-clan"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/discord.svg" alt="Discord Icon" title="discord" width="50" /></a>
 </p>
