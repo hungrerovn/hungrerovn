@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/mysql.svg" height="40" alt="mysql logo" title="SQL" />
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/github.svg" height="40" alt="github logo" title="github" />
   <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/linux.svg" height="40" alt="linux logo" title="linux"/>
-  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/bdfd.png" height="40" alt="bdfd logo" title="bdfd"/>
+  <img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/bdfd.svg" height="40" alt="bdfd logo" title="bdfd"/>
 </p>
 
 ![hungrerovn's GitHub Stats](https://readme-stats-github.pages.dev/api?username=hungrerovn)
