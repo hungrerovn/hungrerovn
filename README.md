@@ -25,4 +25,12 @@
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=hungrerovn)
 
+## Contact
+<p align="center">
+  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
+  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
+  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
+  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hungrerovn&label=Profile%20views&color=0e75b6&style=flat" alt="hungrerovn" /> </p>
