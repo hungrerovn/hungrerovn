@@ -27,10 +27,10 @@
 
 ## Contact
 <p align="center">
-  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
-  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
-  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
-  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title=youtube width="50" /></a>
+  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/email.svg" alt="Email Icon" title="email" width="50" /></a>
+  <a href="https://youtube.com/channel/UCg25pZaaAe3tiJjKwJAf6rw"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/youtube.svg" alt="YouTube Icon" title="youtube" width="50" /></a>
+  <a href="https://tiktok.com/@hungrero_vn"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/tiktok.svg" alt="Tiktok Icon" title="tiktok" width="50" /></a>
+  <a href="https://dsc.gg/hrv-rero-clan"><img src="https://raw.githubusercontent.com/hungrerovn/hungrerovn/refs/heads/main/icons/discord.svg" alt="Discord Icon" title="discord" width="50" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hungrerovn&label=Profile%20views&color=0e75b6&style=flat" alt="hungrerovn" /> </p>
