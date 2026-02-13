@@ -25,3 +25,4 @@
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=hungrerovn)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hungrerovn&label=Profile%20views&color=0e75b6&style=flat" alt="hungrerovn" /> </p>
