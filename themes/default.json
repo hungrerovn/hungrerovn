@@ -1,6 +1,6 @@
 {
   "name": "Aurora & Nebula Space",
-  "description": "Theme tinh chỉnh: Giữ nguyên bản mặc định, tiêu đề danh mục màu #20ffff",
+  "description": "Fix màu: Menu và tên server về trắng, tiêu đề danh mục #20ffff",
   "authors": [
     {
       "name": "hungrerovn",
@@ -9,11 +9,10 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": [ "#20ffff" ],
-    "HEADER_SECONDARY": [ "#20ffff" ],
+    "HEADER_PRIMARY": [ "#ffffff" ],
+    "CHANNEL_NAME_UNREAD": [ "#20ffff" ],
+    "TEXT_NORMAL": [ "#ffffff" ],
     "TEXT_MUTED": [ "#b2bec3" ],
-    "INTERACTIVE_HOVER": [ "#20ffff" ],
-    "BACKGROUND_ACCENT": [ "#20ffff" ],
     "TEXT_LINK": [ "#20ffff" ]
   },
   "background": {
