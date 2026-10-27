@@ -1,6 +1,6 @@
 {
   "name": "Aurora & Nebula Space",
-  "description": "Theme cực quang và tinh vân không gian",
+  "description": "Theme tinh chỉnh: Giữ nguyên bản mặc định, tiêu đề danh mục màu #20ffff",
   "authors": [
     {
       "name": "hungrerovn",
@@ -9,33 +9,12 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": [ "#a29bfe" ],
-    "HEADER_SECONDARY": [ "#81ecec" ],
-    "TEXT_NORMAL": [ "#dfe6e9" ],
+    "HEADER_PRIMARY": [ "#20ffff" ],
+    "HEADER_SECONDARY": [ "#20ffff" ],
     "TEXT_MUTED": [ "#b2bec3" ],
-    "INTERACTIVE_NORMAL": [ "#b2bec3" ],
-    "INTERACTIVE_HOVER": [ "#00cec9" ],
-    "INTERACTIVE_ACTIVE": [ "#a29bfe" ],
-    "INTERACTIVE_MUTED": [ "#636e72" ],
-    "BACKGROUND_PRIMARY": [ "#0f0c1b" ],
-    "BACKGROUND_SECONDARY": [ "#181326" ],
-    "BACKGROUND_SECONDARY_ALT": [ "#0f0c1b" ],
-    "BACKGROUND_TERTIARY": [ "#0f0c1b" ],
-    "BACKGROUND_ACCENT": [ "#6c5ce7" ],
-    "BACKGROUND_FLOATING": [ "#0f0c1b" ],
-    "BACKGROUND_MOBILE_PRIMARY": [ "#0f0c1b" ],
-    "BACKGROUND_MOBILE_SECONDARY": [ "#0f0c1b" ],
-    "BACKGROUND_MESSAGE_HOVER": [ "#181326" ],
-    "BACKGROUND_MODIFIER_HOVER": [ "#181326" ],
-    "BACKGROUND_MODIFIER_ACTIVE": [ "#2d2342" ],
-    "BACKGROUND_MODIFIER_SELECTED": [ "#241b35" ],
-    "BACKGROUND_MODIFIER_ACCENT": [ "#6c5ce7" ],
-    "TEXT_LINK": [ "#00cec9" ],
-    "KEYBOARD": [ "#0f0c1b" ]
-  },
-  "rawColors": {
-    "PRIMARY_800": "#0f0c1b",
-    "PRIMARY_600": "#0f0c1b"
+    "INTERACTIVE_HOVER": [ "#20ffff" ],
+    "BACKGROUND_ACCENT": [ "#20ffff" ],
+    "TEXT_LINK": [ "#20ffff" ]
   },
   "background": {
     "blur": 0.4,
