@@ -1,0 +1,45 @@
+{
+  "name": "Aurora & Nebula Space",
+  "description": "Theme cực quang và tinh vân không gian",
+  "authors": [
+    {
+      "name": "hungrerovn",
+      "id": "1103717241268207636"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [ "#a29bfe" ],
+    "HEADER_SECONDARY": [ "#81ecec" ],
+    "TEXT_NORMAL": [ "#dfe6e9" ],
+    "TEXT_MUTED": [ "#b2bec3" ],
+    "INTERACTIVE_NORMAL": [ "#b2bec3" ],
+    "INTERACTIVE_HOVER": [ "#00cec9" ],
+    "INTERACTIVE_ACTIVE": [ "#a29bfe" ],
+    "INTERACTIVE_MUTED": [ "#636e72" ],
+    "BACKGROUND_PRIMARY": [ "#0f0c1b" ],
+    "BACKGROUND_SECONDARY": [ "#181326" ],
+    "BACKGROUND_SECONDARY_ALT": [ "#0f0c1b" ],
+    "BACKGROUND_TERTIARY": [ "#0f0c1b" ],
+    "BACKGROUND_ACCENT": [ "#6c5ce7" ],
+    "BACKGROUND_FLOATING": [ "#0f0c1b" ],
+    "BACKGROUND_MOBILE_PRIMARY": [ "#0f0c1b" ],
+    "BACKGROUND_MOBILE_SECONDARY": [ "#0f0c1b" ],
+    "BACKGROUND_MESSAGE_HOVER": [ "#181326" ],
+    "BACKGROUND_MODIFIER_HOVER": [ "#181326" ],
+    "BACKGROUND_MODIFIER_ACTIVE": [ "#2d2342" ],
+    "BACKGROUND_MODIFIER_SELECTED": [ "#241b35" ],
+    "BACKGROUND_MODIFIER_ACCENT": [ "#6c5ce7" ],
+    "TEXT_LINK": [ "#00cec9" ],
+    "KEYBOARD": [ "#0f0c1b" ]
+  },
+  "rawColors": {
+    "PRIMARY_800": "#0f0c1b",
+    "PRIMARY_600": "#0f0c1b"
+  },
+  "background": {
+    "blur": 0.4,
+    "url": "https://images.unsplash.com/photo-1531306728370-e2ebd9d7bb99?q=80&w=1920&auto=format&fit=crop",
+    "alpha": 0.65
+  }
+}
